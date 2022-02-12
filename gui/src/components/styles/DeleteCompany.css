@@ -1,0 +1,27 @@
+.company-form-delete {
+    height: 300px;
+    width: 200px;
+    background-color: gainsboro;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+    padding: 10px;
+}
+
+.company-form-delete .id {
+    height: 60px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.company-form-delete .delete {
+    height: 40px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

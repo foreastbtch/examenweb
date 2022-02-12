@@ -1,0 +1,13 @@
+.company-list {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: bisque;
+}
+
+.company-list .filter {
+    display: block;
+    clear: right;
+    float: left;
+    background-color: aliceblue;
+    width: 100%;
+}
